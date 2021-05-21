@@ -4,7 +4,7 @@
 ---
 
 <h1 id="music-genre-classifier-based-on-characteristics-in-time-and-frequency-domain">Music genre classifier based on characteristics in time and frequency domain</h1>
-<p>The purpose of the following project is to classify a song using machine training previously carried out with an initial database. All this thanks to a series of descriptors and using the *** method, which was the most effective.</p>
+<p>The purpose of the following project is to classify a song using machine training previously carried out with an initial database. All this thanks to a series of descriptors and using the Gradient Boosting method, which was the most effective.</p>
 <h1 id="files">Files</h1>
 <p>In this repository you can find:</p>
 <ul>
