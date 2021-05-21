@@ -8,7 +8,7 @@
 <h1 id="files">Files</h1>
 <p>In this repository you can find:</p>
 <ul>
-<li>Source codes (.py and .ipynb)</li>
+<li>Source codes (.ipynb)</li>
 <li>Data (.csv)</li>
 <li>Hardware requeriments</li>
 <li>How to install</li>
